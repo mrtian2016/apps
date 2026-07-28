@@ -1,7 +1,7 @@
 images:
   image:
     repository: ghcr.io/linuxserver/lazylibrarian
-    tag: 68d7be35-ls315
+    tag: 9247b9f9-ls318
 
 consts:
   lazylibrarian_container_name: lazylibrarian
